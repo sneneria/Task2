@@ -1,0 +1,22 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "\"Task 4 - Relational Data Model Operations (Union, Except, Intersect, Joins)\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneneria/Task4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneneria/Task4/issues"
+  },
+  "homepage": "https://github.com/sneneria/Task4#readme",
+  "dependencies": {
+    "pg": "^8.6.0"
+  }
+}
